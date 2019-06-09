@@ -1,4 +1,4 @@
-e## About
+## About
 
 This is an example of using Terraform with the digital ocean provider.
 
